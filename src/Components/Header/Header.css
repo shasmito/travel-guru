@@ -1,0 +1,53 @@
+.navbar{
+    margin-right: 20px;
+    padding: 5px;
+}
+.backgroundCover{
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.753), rgba(0, 0, 0, 0.575)),
+    url(../../FakeData/Images/Rectangle1.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.logoSize{
+    width: 120.26px;
+    height: 56px;
+}
+.Search{
+    width: 300px!important;
+    height: 40px!important;
+    background-color: rgb(255, 255, 255, 0.2)!important;
+    border: 1px solid #FFFFFF!important;
+    box-sizing: border-box!important;
+    border-radius: 5px!important;
+    padding: 10px!important;
+    color: white!important;
+}
+li{
+    display: inline-table;
+} 
+.logIn{
+    font-weight: 900;
+}
+.navbar{
+    color: white!important;
+}
+.navbar:hover{
+    color: rgb(230, 197, 10)!important;
+}
+.coxBazarArea{
+    margin-top: 100px;
+    width: 400px;
+    color: white;
+}
+.coxBazarArea h1{
+    font-size: 50px;
+    font-weight: 100;
+
+    font-family: 'Anton', sans-serif;
+}
+.coxBazarArea p{
+    color: gray;
+}

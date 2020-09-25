@@ -1,0 +1,22 @@
+.ContentSizing{
+    margin-top: 100px;
+}
+.poster{
+    width: 170px;
+    margin-right: 25px;
+    
+    border-radius: 20px;
+    
+}
+.poster:hover{
+    border: 3px solid orange;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.title{
+    color: white;
+    position: relative;
+    padding-left: 10px;
+    bottom: 30px;
+    font-size: 20px;
+}
